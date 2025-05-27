@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# foldersync
+DOMAIN-SUFFIX,foldersync.io
 # 机场测评
 DOMAIN-SUFFIX,duangks.com
 # ubuntu服务器时间同步
