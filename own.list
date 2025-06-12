@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# 浏览器系统
+DOMAIN-SUFFIX,tutous.com
 # foldersync
 DOMAIN-SUFFIX,foldersync.io
 # 机场测评
