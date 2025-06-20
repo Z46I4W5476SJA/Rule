@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# Google Voice核心
+# DOMAIN,
 # 浏览器系统
 DOMAIN-SUFFIX,tutous.com
 # foldersync
