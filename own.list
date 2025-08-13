@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# plex服务
+DOMAIN-SUFFIX,plex.tv
 # 申请证书脚本
 DOMAIN,get.acme.sh
 # 浏览器系统
