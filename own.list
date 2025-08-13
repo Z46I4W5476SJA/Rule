@@ -35,10 +35,8 @@ DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,nodeseek.com
 # IP测试
 DOMAIN-SUFFIX,ip.im
-# grok
-# DOMAIN-SUFFIX,grok.com
-# DOMAIN-SUFFIX,x.ai
-# DOMAIN-SUFFIX,x.com
+# x官网
+DOMAIN-SUFFIX,x.com
 # v2rayssr
 DOMAIN-SUFFIX,v2rayssr.com
 # 花云订阅转换
