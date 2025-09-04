@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# FCM推送机制
+DOMAIN,checkin.gstatic.com
 # plex服务
 DOMAIN-SUFFIX,plex.tv
 # 申请证书脚本
