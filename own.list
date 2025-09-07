@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# 三星固件下载
+DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
 DOMAIN,checkin.gstatic.com
 # plex服务
