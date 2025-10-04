@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：xx条
 
+# tmdb影视库
+DOMAIN-SUFFIX,tmdb.org
 # 三星固件下载
 DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
