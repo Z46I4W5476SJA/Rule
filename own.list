@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：30条
 
+# docker库
+DOMAIN-SUFFIX,docker.io
 # tmdb影视库
 DOMAIN-SUFFIX,tmdb.org
 # 三星固件下载
