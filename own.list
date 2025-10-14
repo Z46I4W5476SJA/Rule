@@ -3,6 +3,7 @@
 
 # docker库
 DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,docker.com
 # tmdb影视库
 DOMAIN-SUFFIX,tmdb.org
 # 三星固件下载
