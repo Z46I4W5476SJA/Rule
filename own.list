@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：32条
+# 数量：33条
 
+# 98堂
+DOMAIN-SUFFIX,sehuatang.net
 # docker库
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
