@@ -1,6 +1,9 @@
 # 内容：自用杂乱规则
-# 数量：33条
+# 数量：35条
 
+# 土耳其充值网站
+DOMAIN-SUFFIX,iyzico.com
+DOMAIN-SUFFIX,iyzipay.com
 # 98堂
 DOMAIN-SUFFIX,sehuatang.net
 # docker库
