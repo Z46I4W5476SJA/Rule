@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：35条
+# 数量：36条
 
+# google voice
+DOMAIN-SUFFIX,telephony.goog
 # 土耳其充值网站
 DOMAIN-SUFFIX,iyzico.com
 DOMAIN-SUFFIX,iyzipay.com
