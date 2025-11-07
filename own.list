@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：36条
 
+# linuxdo官网
+DOMAIN-SUFFIX,linux.do
 # google voice
 DOMAIN-SUFFIX,telephony.goog
 # 土耳其充值网站
