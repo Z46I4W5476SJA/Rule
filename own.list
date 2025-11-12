@@ -1,6 +1,18 @@
 # 内容：自用杂乱规则
-# 数量：36条
+# 数量：47条
 
+# MetaTube刮削
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,jav321.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,duga.jp
+DOMAIN-SUFFIX,mgstage.com
+DOMAIN-SUFFIX,faleno.jp
+DOMAIN-SUFFIX,sod.co.jp
+DOMAIN-SUFFIX,avantertainments.com
+DOMAIN-SUFFIX,dahlia-av.jp
+DOMAIN-SUFFIX,pansearch.me
+DOMAIN-SUFFIX,voce.chat
 # linuxdo官网
 DOMAIN-SUFFIX,linux.do
 # google voice
