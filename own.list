@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：47条
+# 数量：48条
 
+# Homebrew更新网址
+DOMAIN-SUFFIX,brew.sh
 # AlDente电池软件更新
 DOMAIN-SUFFIX,apphousekitchen.com
 # MetaTube刮削
