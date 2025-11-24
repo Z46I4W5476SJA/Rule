@@ -1,5 +1,5 @@
 # 内容：自用杂乱规则
-# 数量：48条
+# 数量：49条
 
 # Homebrew更新网址
 DOMAIN-SUFFIX,brew.sh
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,voce.chat
 DOMAIN-SUFFIX,linux.do
 # google voice
 DOMAIN-SUFFIX,telephony.goog
+DOMAIN,lens.l.google.com
 # 土耳其充值网站
 DOMAIN-SUFFIX,iyzico.com
 DOMAIN-SUFFIX,iyzipay.com
