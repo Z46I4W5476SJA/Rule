@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：49条
+# 数量：50条
 
+# python官网
+DOMAIN-SUFFIX,python.org
 # Homebrew更新网址
 DOMAIN-SUFFIX,brew.sh
 # AlDente电池软件更新
