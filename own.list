@@ -1,5 +1,5 @@
 # 内容：自用杂乱规则
-# 数量：51条
+# 数量：50条
 
 # warp下载
 DOMAIN-SUFFIX,warp.dev
@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
 DOMAIN,checkin.gstatic.com
 # plex服务
-DOMAIN-SUFFIX,plex.tv
+# DOMAIN-SUFFIX,plex.tv
 # 申请证书脚本
 DOMAIN,get.acme.sh
 # 浏览器系统
