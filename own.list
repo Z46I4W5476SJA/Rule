@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：50条
+# 数量：51条
 
+# warp下载
+DOMAIN-SUFFIX,warp.dev
 # python官网
 DOMAIN-SUFFIX,python.org
 # Homebrew更新网址
