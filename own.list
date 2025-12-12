@@ -40,8 +40,9 @@ DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
 DOMAIN,checkin.gstatic.com
-# plex服务
-# DOMAIN-SUFFIX,plex.tv
+# plex服务媒体服务
+# DOMAIN-SUFFIX,plex.tv（暂时不用
+DOMAIN,metadata.provider.plex.tv
 # 申请证书脚本
 DOMAIN,get.acme.sh
 # 浏览器系统
