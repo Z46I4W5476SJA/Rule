@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
 DOMAIN,checkin.gstatic.com
 # plex服务下载图片服务
-DOMAIN,assets.fanart.tv
+DOMAIN,images.plex.tv
 # 申请证书脚本
 DOMAIN,get.acme.sh
 # 浏览器系统
