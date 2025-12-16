@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,samfw.com
 DOMAIN,checkin.gstatic.com
 # plex服务下载图片服务
 DOMAIN,images.plex.tv
+DOMAIN,metadata.provider.plex.tv
+DOMAIN,metadata-static.plex.tv
+DOMAIN,image.tmdb.org
+DOMAIN,assets.plex.tv
 # 申请证书脚本
 DOMAIN,get.acme.sh
 # 浏览器系统
