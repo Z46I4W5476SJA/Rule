@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：50条
 
+# notepad++
+DOMAIN-SUFFIX,notepad-plus-plus.org
 # warp下载
 DOMAIN-SUFFIX,warp.dev
 # python官网
