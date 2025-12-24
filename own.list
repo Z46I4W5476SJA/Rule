@@ -1,7 +1,9 @@
 # 内容：自用杂乱规则
-# 数量：51条
+# 数量：52条
 
 
+# ChatGPT提示词
+DOMAIN-SUFFIX,prompts.chat
 # missav
 DOMAIN-SUFFIX,missav.ws
 # notepad++
