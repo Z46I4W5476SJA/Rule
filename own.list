@@ -1,6 +1,9 @@
 # 内容：自用杂乱规则
-# 数量：50条
+# 数量：51条
 
+
+# missav
+DOMAIN-SUFFIX,missav.ws
 # notepad++
 DOMAIN-SUFFIX,notepad-plus-plus.org
 # warp下载
