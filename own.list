@@ -1,7 +1,8 @@
 # 内容：自用杂乱规则
 # 数量：52条
 
-
+# 毒药测速
+DOMAIN-SUFFIX,duyaoss.com
 # ChatGPT提示词
 DOMAIN-SUFFIX,prompts.chat
 # missav
