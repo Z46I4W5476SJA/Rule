@@ -1,0 +1,37 @@
+#!name=屏蔽系统更新(保留AppStore)
+#!desc=拦截macOS系统更新、Safari与Xcode更新，但允许App Store手动检查和下载App。
+#!author=choux
+#!category=拦截
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Update.png
+#!date=2026-03-09 18:00:00
+
+[Rule]
+# > [核心系统更新] 彻底拦截设置里的检查更新
+DOMAIN,xp.apple.com,REJECT
+DOMAIN,gdmf.apple.com,REJECT
+DOMAIN,mesu.apple.com,REJECT
+DOMAIN,swscan.apple.com,REJECT
+DOMAIN,swdist.apple.com,REJECT
+DOMAIN,swcdn.apple.com,REJECT
+DOMAIN,swquery.apple.com,REJECT
+
+# > [Safari & Xcode] 拦截组件下载与浏览器配置更新
+DOMAIN,safari.apple.com,REJECT
+DOMAIN,configuration.apple.com,REJECT
+DOMAIN,devimages-cdn.apple.com,REJECT
+DOMAIN,xcodesupport.apple.com,REJECT
+
+# > [系统资源CDN] 拦截大块的系统补丁下载，但不影响商店
+DOMAIN,updates-http.cdn-apple.com,REJECT
+DOMAIN,updates.cdn-apple.com,REJECT
+
+# > [放行 App Store] 为了保证商店正常，以下域名不要拦截（已注释掉）
+# DOMAIN,oscdn.apple.com,DIRECT
+# DOMAIN,osxapps.itunes.apple.com,DIRECT
+# DOMAIN,itunes.apple.com,DIRECT
+
+# > [额外规则] 拦截一些不必要的苹果诊断
+DOMAIN-SUFFIX,iadsdk.apple.com,REJECT
+
+[MITM]
+hostname = %APPEND% xp.apple.com, gdmf.apple.com, updates.cdn-apple.com
