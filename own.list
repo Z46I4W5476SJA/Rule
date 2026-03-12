@@ -1,6 +1,9 @@
 # 内容：自用杂乱规则
-# 数量：52条
+# 数量：54条
 
+
+# v2ex每日最热
+DOMAIN-SUFFIX,v2exday.com
 # 搬瓦工x-ui
 DOMAIN,bwg-box.wwjzx.top
 # 毒药测速
