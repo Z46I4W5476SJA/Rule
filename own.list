@@ -1,7 +1,8 @@
 # 内容：自用杂乱规则
-# 数量：54条
 
 
+# 脚本成人版
+DOMAIN-SUFFIX,sleazyfork.org
 # 核心入口与旧域名防跳转（Gemini）
 DOMAIN-SUFFIX,bard.google.com
 # [关键] 修复 "无法加载对话" 的核心后台接口（Gemini）
