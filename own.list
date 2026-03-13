@@ -2,6 +2,14 @@
 # 数量：54条
 
 
+# 核心入口与旧域名防跳转（Gemini）
+DOMAIN-SUFFIX,bard.google.com
+# [关键] 修复 "无法加载对话" 的核心后台接口（Gemini）
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,makersuite-pa.clients6.google.com
+# AI 模型与依赖库（Gemini）
+DOMAIN-SUFFIX,ogusercontent.com
 # v2ex每日最热
 DOMAIN-SUFFIX,v2exday.com
 # 搬瓦工x-ui
