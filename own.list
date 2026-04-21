@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 
+# immich人脸识别服务
+DOMAIN-SUFFIX,huggingface.co
 #chat服务
 DOMAIN,chat.wwjzx.top
 # ai检测
