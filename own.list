@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,makersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,ogusercontent.com
 # v2ex每日最热
 DOMAIN-SUFFIX,v2exday.com
+DOMAIN,cdn.staticfile.org
 # 搬瓦工x-ui
 DOMAIN,bwg-box.wwjzx.top
 # 毒药测速
