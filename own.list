@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 
+#surge社区
+DOMAIN,community.nssurge.com
 # immich人脸识别服务
 DOMAIN-SUFFIX,huggingface.co
 #chat服务
