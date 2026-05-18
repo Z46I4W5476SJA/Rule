@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 
+# apkpure软件下载
+DOMAIN-SUFFIX,apkpure.com
 #surge社区
 DOMAIN,community.nssurge.com
 # immich人脸识别服务
