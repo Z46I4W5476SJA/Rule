@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 
+# surge软件更新
+DOMAIN-SUFFIX,nssurge.com
 # apkpure软件下载
 DOMAIN-SUFFIX,apkpure.com
 #surge社区
