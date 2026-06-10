@@ -8,8 +8,6 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN,community.nssurge.com
 # immich人脸识别服务
 DOMAIN-SUFFIX,huggingface.co
-#chat服务
-DOMAIN,chat.wwjzx.top
 # ai检测
 DOMAIN-SUFFIX,aistupidlevel.info
 # 脚本成人版
