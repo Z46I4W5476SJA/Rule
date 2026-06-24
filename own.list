@@ -1,5 +1,7 @@
 # 内容：自用杂乱规则
 
+# ytoo机场
+DOMAIN-SUFFIX,y-too.com
 # surge软件更新
 DOMAIN-SUFFIX,nssurge.com
 # apkpure软件下载
