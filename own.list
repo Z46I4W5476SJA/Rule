@@ -1,6 +1,8 @@
 # 内容：自用杂乱规则
 
 
+# 育碧
+DOMAIN-SUFFIX,ubisoft.com
 # Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
