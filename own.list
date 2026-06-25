@@ -1,5 +1,19 @@
 # 内容：自用杂乱规则
 
+
+# Discord
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.gift
+DOMAIN,gateway.discord.gg
+DOMAIN,cdn.discordapp.com
+DOMAIN,media.discordapp.net
+DOMAIN,dl.discordapp.net
 # ytoo机场
 DOMAIN-SUFFIX,y-too.com
 # surge软件更新
