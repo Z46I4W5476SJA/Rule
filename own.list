@@ -148,5 +148,7 @@ DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,epicgames.com
 # 香港迪士尼
 DOMAIN-SUFFIX,www.hongkongdisneyland.com
+# giffgaff
+DOMAIN-SUFFIX,giffgaff.com
 # 农行掌银
 DOMAIN,msmp.abchina.com.cn,REJECT
