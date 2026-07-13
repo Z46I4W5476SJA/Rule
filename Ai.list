@@ -1,6 +1,6 @@
 # NAME: Ai Rules
 # AUTHOR: https://t.me/ddgksf2021
-# UPDATED: 2025-11-26
+# UPDATED: 2026-07-13
 # 原始路径：https://gist.githubusercontent.com/ddgksf2013/cb4121e8b5c5d865cc949cb8120320c4/raw/Ai.yaml
 # ps：复制过来记得删除开头的“-“ 以及开头的“payload:”
 
@@ -31,14 +31,22 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # > Cursor
+# Network endpoints used by Cursor app, APIs, marketplace, CDN and updater
+DOMAIN,download.todesktop.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
 
 # > Dify AI
 DOMAIN-SUFFIX,dify.ai
 
 # > Google AI (Gemini/Bard)
 DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,generativelanguage.googleapis.com
 DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,clients6.google.com
@@ -54,6 +62,11 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # > JetBrains AI
+DOMAIN,account.jetbrains.com
+DOMAIN,api.ai.jetbrains.com.cn
+DOMAIN,api.app.prod.grazie.aws.intellij.net
+DOMAIN,api.jetbrains.ai
+DOMAIN,oauth.account.jetbrains.com
 DOMAIN-SUFFIX,grazie.ai
   
 # > Meta
@@ -75,6 +88,9 @@ DOMAIN,services.bingapis.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN-SUFFIX,api.microsoftapp.net
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
 DOMAIN-SUFFIX,edgeservices.bing.com
 
@@ -82,6 +98,9 @@ DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,midjourney.com
 
 # > OpenAI/ChatGPT
+# Official allowlist: https://help.openai.com/en/articles/9247338
+DOMAIN,humb.apple.com
+DOMAIN,rum.browser-intake-datadoghq.com
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
 DOMAIN,production-openaicom-storage.azureedge.net
@@ -91,6 +110,14 @@ DOMAIN-SUFFIX,livekit.cloud
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ct.sendgrid.net
+DOMAIN-SUFFIX,featureassets.org
+DOMAIN-SUFFIX,oaistatsig.com
+DOMAIN-SUFFIX,openaimerge.com
+DOMAIN-SUFFIX,prodregistryv2.org
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,imgix.net
 
