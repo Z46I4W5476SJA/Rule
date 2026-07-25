@@ -150,7 +150,5 @@ DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,www.hongkongdisneyland.com
 # giffgaff
 DOMAIN-SUFFIX,giffgaff.com
-# 网易
-DOMAIN-SUFFIX,netease.com
 # 农行掌银
 DOMAIN,msmp.abchina.com.cn,REJECT
