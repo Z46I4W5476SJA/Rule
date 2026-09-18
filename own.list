@@ -154,3 +154,5 @@ DOMAIN-SUFFIX,www.hongkongdisneyland.com
 DOMAIN-SUFFIX,giffgaff.com
 # 农行掌银
 DOMAIN,msmp.abchina.com.cn,REJECT
+# 部落冲突国际服游戏连接
+DOMAIN,gamea.clashofclans.com
