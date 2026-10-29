@@ -156,3 +156,6 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN,msmp.abchina.com.cn,REJECT
 # 部落冲突国际服游戏连接
 DOMAIN,gamea.clashofclans.com
+# 馒头 M-Team（直连 Cloudflare 晚高峰卡住，走代理）
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
