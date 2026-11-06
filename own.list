@@ -75,6 +75,8 @@ DOMAIN-SUFFIX,pansearch.me
 DOMAIN-SUFFIX,voce.chat
 # linuxdo官网
 DOMAIN-SUFFIX,linux.do
+# 1024社区
+DOMAIN-SUFFIX,1024.day
 # google voice
 DOMAIN-SUFFIX,telephony.goog
 DOMAIN,lens.l.google.com
