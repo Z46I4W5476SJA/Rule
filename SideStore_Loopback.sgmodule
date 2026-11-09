@@ -1,9 +1,8 @@
 #!name=SideStore Loopback
-#!desc=用 Surge 替代 LocalDevVPN 做 10.7.0.1 回环，给 SideStore 续签用（需 Surge iOS 5.23.0+）
+#!desc=用 Surge 替代 LocalDevVPN 做 10.7.0.1 回环，给 SideStore 续签用（需 Surge iOS 5.23.0+）。已移除 tun-included-routes 以避免 Surge 警告，若 10.7.0.1 未被捕获可再加回。
 
 [General]
 ipv6-vif = disabled
-tun-included-routes = %INSERT% 10.7.0.1/32
 
 [IP Rewrite]
 10.7.0.1 = reflect
