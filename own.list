@@ -95,11 +95,11 @@ DOMAIN-SUFFIX,samfw.com
 # FCM推送机制
 DOMAIN,checkin.gstatic.com
 # plex服务下载图片服务
-DOMAIN,images.plex.tv
-DOMAIN,metadata.provider.plex.tv
-DOMAIN,metadata-static.plex.tv
+# DOMAIN,images.plex.tv
+# DOMAIN,metadata.provider.plex.tv
+# DOMAIN,metadata-static.plex.tv
 DOMAIN,image.tmdb.org
-DOMAIN,assets.plex.tv
+# DOMAIN,assets.plex.tv
 # plex下载
 DOMAIN,downloads.plex.tv
 # 申请证书脚本
