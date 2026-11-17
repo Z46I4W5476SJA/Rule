@@ -160,3 +160,5 @@ DOMAIN-SUFFIX,giffgaff.com
 DOMAIN,msmp.abchina.com.cn,REJECT
 # 部落冲突国际服游戏连接
 DOMAIN,gamea.clashofclans.com
+# 部落冲突国际服安装包下载
+DOMAIN,static.clashpost.com
